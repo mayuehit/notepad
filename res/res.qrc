@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res.txt</file>
+        <file>twotone_remove_black_36dp.png</file>
+        <file>twotone_add_black_24dp.png</file>
+        <file>twotone_delete_sweep_black_24dp.png</file>
+        <file>twotone_edit_note_black_36dp.png</file>
+    </qresource>
+</RCC>
